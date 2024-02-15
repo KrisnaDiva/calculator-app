@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="editText1">Angka 1</string>
+    <string name="editText2">Angka 2</string>
+    <string name="clearButton">Bersihkan</string>
+    <string name="resultTextView">Hasil</string>
+    <string name="canNotDevideByZero">Tidak bisa dibagi dengan 0</string>
+</resources>

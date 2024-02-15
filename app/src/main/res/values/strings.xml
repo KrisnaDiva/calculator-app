@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="editText1">Number 1</string>
+    <string name="editText2">Number 2</string>
+    <string name="addButton" translatable="false">+</string>
+    <string name="subButton" translatable="false">-</string>
+    <string name="mulButton" translatable="false">×</string>
+    <string name="divButton" translatable="false">/</string>
+    <string name="modButton" translatable="false">%</string>
+    <string name="clearButton">Clear</string>
+    <string name="resultTextView">Result</string>
+    <string name="calculationTextView" translatable="false">%1$s %2$s %3$s = %4$s</string>
+    <string name="blank" translatable="false"> </string>
+    <string name="canNotDevideByZero">Cannot divide by zero</string>
+</resources>

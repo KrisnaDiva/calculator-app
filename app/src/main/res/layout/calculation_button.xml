@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button
+        android:id="@+id/addButton"
+        android:layout_width="60dp"
+        android:layout_height="match_parent"
+        android:text="@string/addButton" />
+    <Button
+        android:id="@+id/subButton"
+        android:layout_width="60dp"
+        android:layout_height="match_parent"
+        android:text="@string/subButton"/>
+    <Button
+        android:id="@+id/mulButton"
+        android:layout_width="60dp"
+        android:layout_height="match_parent"
+        android:text="@string/mulButton"/>
+    <Button
+        android:id="@+id/divButton"
+        android:layout_width="60dp"
+        android:layout_height="match_parent"
+        android:text="@string/divButton"/>
+    <Button
+        android:id="@+id/modButton"
+        android:layout_width="60dp"
+        android:layout_height="match_parent"
+        android:text="@string/modButton"/>
+</merge>
